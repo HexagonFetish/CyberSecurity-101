@@ -1,14 +1,14 @@
 ## HTTP (Hyper Text Transfer Protocol)
 
-İnternet ağında sunucular ve kullanıcılar arasında nasıl bir veri alışverişi olacağı hakkındaki kurallar düzenini sağlayan protokol HTTP’dir. <br> <br>
+HTTP is the protocol that provides the rules for how data will be exchanged between servers and users on the internet. <br> <br>
 
-Durum kodları vardır, bunlar: **200, 201, 301, 403, 500** gibi sıralanabilir. <br> <br>
+There are status codes, these can be listed as: **200, 201, 301, 403, 500**. <br> <br>
 
-HTTP gerçekten rezalet bir protokoldür, ne güvenliği var ne hayrı var. UDP ne kadar piç ise buda o kadar piç. <br> <br>
+HTTP is a truly disgraceful protocol, it has neither security nor good. This is as bad as UDP. <br> <br>
 
-şifreler, kredi kartları plain text olarak tutulur.
+Passwords and credit cards are kept in plain text.
 
 ## HTTP(S) (s for secure)
 
-bu bir http'dir ama güvenli halidir. S harfi secure'dan gelir. eğer SSL sertifikanız varsa TLS protokolü ile güvenlik sağlanır.
-<br> <br> şifreleriniz şifrenilir ve güvence altına alınır.
+This is http but it is the secure version. The letter S comes from secure. If you have an SSL certificate, security is provided with the TLS protocol.
+<br> <br> Your passwords are encrypted and secured.
